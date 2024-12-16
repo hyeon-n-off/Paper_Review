@@ -10,3 +10,6 @@
 
 * Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference (2017)
   * [Original Paper Link](https://arxiv.org/pdf/1712.05877) / [Summary PDF](https://github.com/hyeon-n-off/Paper_Review/blob/main/%5BQuantization%5D%20Quantization%20and%20Training%20of%20Neural%20Networks%20for%20Efficient%20Integer-Arithmetic-Only%20Inference/Quantization%20%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0.pdf) / [Code Practice](https://github.com/hyeon-n-off/Paper_Review/blob/main/%5BQuantization%5D%20Quantization%20and%20Training%20of%20Neural%20Networks%20for%20Efficient%20Integer-Arithmetic-Only%20Inference/Quantization%20%EC%8B%A4%EC%8A%B5.ipynb)
+
+* The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits (2024)
+  * [Original Paper Link](https://arxiv.org/pdf/2402.17764) / [Summary PDF]() / [Code Practice]()
